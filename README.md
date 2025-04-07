@@ -1,4 +1,7 @@
-# ChatPDFLocal
+<h1 align="center">
+ChatPDFLocal
+</h1>
+
 ChatPDFLocal is a ChatPDF app on Mac OS, especially for serious study and work scenarios.
 
 From research papers and manuals to legal contracts and educational materials, reading PDF is a very important part of our daily digital life. ChatPDFLocal is an AI-powered app by which you can interact with your PDF or PDF collections, you can now ask questions, and the chatbot in ChatPDFLocal will provide you with precise, reliable answers. This app is designed to help you read and understand PDF files and improve your efficiency in reading.

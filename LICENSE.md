@@ -1,6 +1,6 @@
 NOTE: This is NOT an open source software.
 
-The source code here is compiled and intended for self-host users of ChatPDFLocal to host and receive updates.
+The source code here is compiled and intended for interested users to try ChatPDFLocal and give issues, feedback.
 
 You have access to the compiled code of the app.  
 You have permission to deploy and use the compiled code on your own Mac.  

@@ -1,6 +1,6 @@
 Set objArgs = WScript.Arguments
 Set objShell = CreateObject("WScript.Shell")
-If WScript.Arguments.Count = 2 Then
+If WScript.Arguments.Count = 1 Then
     Dim cmdExec
     cmdExec = "cmd.exe /c " + objArgs(0)
     objShell.Run  cmdExec, 0, False

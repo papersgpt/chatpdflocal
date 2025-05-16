@@ -1,10 +1,15 @@
 Set objArgs = WScript.Arguments
 Set objShell = CreateObject("WScript.Shell")
-If WScript.Arguments.Count = 1 Then
-    Dim cmdExec
-    cmdExec = "cmd.exe /c " + objArgs(0)
-    objShell.Run  cmdExec, 0, False
-Else
-    objShell.Run "taskkill /f /im papersgpt-agent.exe", 0, True
-    objShell.Run "taskkill /f /im llama-server.exe", 0, True
+If WScript.Arguments.Count = 2 Then
+    If objArgs(1) = "start" Then
+        Dim cmdExec
+        cmdExec = "cmd.exe /c " + objArgs(0)
+        objShell.Run  cmdExec, 0, False
+    End If
+    If objArgs(1) = "stop" Then
+        Dim killExec
+        killExec = "taskkill /f /im " & objArgs(0)
+        objShell.Run killExec, 0, True
+        objShell.Run "taskkill /f /im llama-server.exe", 0, True 
+     End If
 End If

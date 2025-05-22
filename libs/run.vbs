@@ -3,7 +3,7 @@ Set objShell = CreateObject("WScript.Shell")
 If WScript.Arguments.Count = 2 Then
     If objArgs(1) = "start" Then
         Dim cmdExec
-        cmdExec = "cmd.exe /c " + objArgs(0)
+        cmdExec = objArgs(0)
         objShell.Run  cmdExec, 0, False
     End If
     If objArgs(1) = "stop" Then

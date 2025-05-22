@@ -4,7 +4,7 @@ If WScript.Arguments.Count = 2 Then
     If objArgs(1) = "start" Then
         Dim cmdExec
         cmdExec = objArgs(0)
-        objShell.Run  cmdExec, 0, False
+        objShell.Run cmdExec, 0, False
     End If
     If objArgs(1) = "stop" Then
         Dim killExec

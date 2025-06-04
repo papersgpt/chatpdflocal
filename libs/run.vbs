@@ -10,7 +10,7 @@ If WScript.Arguments.Count = 2 Then
         Dim killExec
         killExec = "taskkill /f /im " & objArgs(0)
         objShell.Run killExec, 0, True
-        objShell.Run "taskkill /f /im llama-server.exe", 0, True 
+        objShell.Run "taskkill /f /im papersgpt-local-llm.exe", 0, True 
         objShell.Run "taskkill /f /im huggingface_download.exe", 0, True
      End If
 End If

@@ -29,11 +29,9 @@ ChatPDFLocal
 *   Use the built-in prompts for common tasks like: Summary, Background, Generating a literature review, Theoretical frameworks, Future directions.  
 *   You can also directly type any question or custom prompt to start the conversation.  
 
-### Step 3: Manage Your Findings
+### Step 3: Manage Your Findings and close the chat
 
-*   After chatting, you can easily **save the key insights and answers** you've gathered from the conversation.
-
-### Step 4: Close the Chat
+*   After chatting, you can easily **save the key insights and answers** you've gathered from the conversation.  
 
 *   When you're finished, click the **red cross (X) close button** to exit the PapersGPT window.
 

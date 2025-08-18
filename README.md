@@ -22,19 +22,12 @@ ChatPDFLocal
         *   **Windows:** `Ctrl + Enter`
 
 *   **Chat with Multiple PDFs**
-    *   Select multiple files or a collection in the main Zotero window.
-        *   **Windows:** Hold `Ctrl` while clicking files.
-        *   **macOS:** Hold `Command` while clicking files.
+    *   Select multiple files or a collection in the main Zotero window. Hold `Ctrl` while clicking files on Windows. Hold `Command` while clicking files on Mac.  
 
 #### 2. Ask Questions
 
-*   Use the built-in prompts for common tasks like:
-    *   Summary
-    *   Background
-    *   Generating a literature review
-    *   Theoretical frameworks
-    *   Future directions
-*   You can also directly type any question or custom prompt to start the conversation.
+*   Use the built-in prompts for common tasks like: Summary, Background, Generating a literature review, Theoretical frameworks, Future directions.  
+*   You can also directly type any question or custom prompt to start the conversation.  
 
 ### Step 3: Manage Your Findings
 

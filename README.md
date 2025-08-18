@@ -8,8 +8,8 @@ ChatPDFLocal
 
 ### Step 1: Download and Install
 
-1.  First, **download the latest PapersGPT**.
-2.  Then, install the downloaded Zotero plugin file. For more details, [please see here]().
+1.  First, download the latest [PapersGPT](https://github.com/papersgpt/papersgpt-for-zotero/releases/download/papersgpt-v0.3.1/papersgpt-v0.3.1.xpi).
+2.  Then, install the downloaded Zotero plugin file. For more details, please see [here](https://www.papersgpt.com/blogs/cookbook-papersgpt).
 
 ### Step 2: Start Chatting with a PDF or Multiple PDFs
 
@@ -22,18 +22,20 @@ ChatPDFLocal
         *   **Windows:** `Ctrl + Enter`
 
 *   **Chat with Multiple PDFs**
-    *   Select multiple files or a collection in the main Zotero window. Hold `Ctrl` while clicking files on Windows. Hold `Command` while clicking files on Mac.  
+    *   Select multiple files or a collection in the main Zotero window. Hold `Ctrl` while clicking files on Windows. Hold `Command` while clicking files on Mac.
 
-#### 2. Ask Questions
+#### 2. Select a LLM model and configure the API KEY of the model, more detailed information please see [here](https://www.papersgpt.com/blogs/cookbook-papersgpt)
+
+#### 3. Ask Questions
 
 *   Use the built-in prompts for common tasks like: Summary, Background, Generating a literature review, Theoretical frameworks, Future directions.  
 *   You can also directly type any question or custom prompt to start the conversation.  
 
 ### Step 3: Manage Your Findings and close the chat
 
-*   After chatting, you can easily **save the key insights and answers** you've gathered from the conversation.  
+*   After chatting, you can easily save the key insights and answers you've gathered from the conversation.  
 
-*   When you're finished, click the **red cross (X) close button** to exit the PapersGPT window.
+*   When you're finished, click the red cross (X) close button to exit the PapersGPT window.
 
 
 

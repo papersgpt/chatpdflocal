@@ -2,6 +2,51 @@
 ChatPDFLocal
 </h1>
 
+## Quickstart
+
+***
+
+### Step 1: Download and Install
+
+1.  First, **download the latest PapersGPT**.
+2.  Then, install the downloaded Zotero plugin file. For more details, [please see here]().
+
+### Step 2: Start Chatting with a PDF or Multiple PDFs
+
+#### 1. Launch PapersGPT
+
+*   **Chat with a Single PDF**
+    *   Open a PDF from your Zotero library.
+    *   When you need AI assistance, click the **PapersGPT icon ( )** on the top menu of the PDF viewer or use a keyboard shortcut:
+        *   **macOS:** `Command + Enter`
+        *   **Windows:** `Ctrl + Enter`
+
+*   **Chat with Multiple PDFs**
+    *   Select multiple files or a collection in the main Zotero window.
+        *   **Windows:** Hold `Ctrl` while clicking files.
+        *   **macOS:** Hold `Command` while clicking files.
+
+#### 2. Ask Questions
+
+*   Use the built-in prompts for common tasks like:
+    *   Summary
+    *   Background
+    *   Generating a literature review
+    *   Theoretical frameworks
+    *   Future directions
+*   You can also directly type any question or custom prompt to start the conversation.
+
+### Step 3: Manage Your Findings
+
+*   After chatting, you can easily **save the key insights and answers** you've gathered from the conversation.
+
+### Step 4: Close the Chat
+
+*   When you're finished, click the **red cross (X) close button** to exit the PapersGPT window.
+
+
+
+
 ChatPDFLocal is a ChatPDF app on MacOS, especially for serious study and work scenarios.
 
 From research papers and manuals to legal contracts and educational materials, reading PDF is a very important part of our daily digital life. ChatPDFLocal is an AI-powered app by which you can interact with your PDF or PDF collections, you can now ask questions, and the chatbot in ChatPDFLocal will provide you with precise, reliable answers. This app is designed to help you read and understand PDF files and improve your efficiency in reading.

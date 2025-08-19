@@ -2,44 +2,6 @@
 ChatPDFLocal
 </h1>
 
-## Quickstart
-
-***
-
-### Step 1: Download and Install
-
-1.  First, download the latest [PapersGPT](https://github.com/papersgpt/papersgpt-for-zotero/releases/download/papersgpt-v0.3.1/papersgpt-v0.3.1.xpi).
-2.  Then, install the downloaded Zotero plugin file. For more details, please see [here](https://www.papersgpt.com/blogs/cookbook-papersgpt).
-
-### Step 2: Start Chatting with a PDF or Multiple PDFs
-
-#### 1. Launch PapersGPT
-
-*   **Chat with a Single PDF**
-    *   Open a PDF from your Zotero library.
-    *   When you need AI assistance, click the **PapersGPT icon ( )** on the top menu of the PDF viewer or use a keyboard shortcut:
-        *   **macOS:** `Command + Enter`
-        *   **Windows:** `Ctrl + Enter`
-
-*   **Chat with Multiple PDFs**
-    *   Select multiple files or a collection in the main Zotero window. Hold `Ctrl` while clicking files on Windows. Hold `Command` while clicking files on Mac.
-
-#### 2. Select a LLM model and configure the API KEY of the model, more detailed information please see [here](https://www.papersgpt.com/blogs/cookbook-papersgpt)
-
-#### 3. Ask Questions
-
-*   Use the built-in prompts for common tasks like: Summary, Background, Generating a literature review, Theoretical frameworks, Future directions.  
-*   You can also directly type any question or custom prompt to start the conversation.  
-
-### Step 3: Manage Your Findings and close the chat
-
-*   After chatting, you can easily save the key insights and answers you've gathered from the conversation.  
-
-*   When you're finished, click the red cross (X) close button to exit the PapersGPT window.
-
-
-
-
 ChatPDFLocal is a ChatPDF app on MacOS, especially for serious study and work scenarios.
 
 From research papers and manuals to legal contracts and educational materials, reading PDF is a very important part of our daily digital life. ChatPDFLocal is an AI-powered app by which you can interact with your PDF or PDF collections, you can now ask questions, and the chatbot in ChatPDFLocal will provide you with precise, reliable answers. This app is designed to help you read and understand PDF files and improve your efficiency in reading.
